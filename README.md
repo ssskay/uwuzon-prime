@@ -12,3 +12,7 @@ Snippet of the HTML Skeleton:
 ![image](https://github.com/dartmouth-cs52-20S/lab1-landingpage-ssskay/blob/master/Images/html-layout.png)
 
 Inspiration: https://www.amazon.com/amazonprime?_encoding=UTF8&ref_=nav_logo_prime_join
+
+---
+
+Maintained by [Sara Kay](https://sarakay.me) · [@ssskay](https://github.com/ssskay) · [more projects](https://sarakay.me/projects.html)
