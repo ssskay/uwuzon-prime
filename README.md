@@ -1,5 +1,6 @@
-# lab1-landingpage-ssskay
-lab1-landingpage-ssskay created by GitHub Classroom
+# Uwuzon Prime
+
+A weaboo parody of the Amazon Prime landing page, hand-built in HTML and CSS as my first lab for Dartmouth's CS 52 (spring 2020). [See it live](https://ssskay.github.io/uwuzon-prime/).
 
 What worked: The cta section was probably the easiest to construct since disecting the parts + looking at some of the Amazon CSS was somewhat straightforward. While they don't use flex for positioning, it was easy to see how to layout the parts of text, image and button so it would look presentable. 
 
@@ -9,7 +10,7 @@ What didn't work: The Navbar and overall top section is a nightmare to position.
 
 
 Snippet of the HTML Skeleton:
-![image](https://github.com/dartmouth-cs52-20S/lab1-landingpage-ssskay/blob/master/Images/html-layout.png)
+![image](Images/html-layout.png)
 
 Inspiration: https://www.amazon.com/amazonprime?_encoding=UTF8&ref_=nav_logo_prime_join
 
